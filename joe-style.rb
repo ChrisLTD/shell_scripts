@@ -2,8 +2,8 @@
 
 # Convert a file to indent every subsequent line
 #
-# Pass filenames in as parameters when running this script
-# /.joe-style.rb filename1.txt filename2.txt
+# Pass filename in as a parameter when running this script
+# /.joe-style.rb filename1.txt
 #
 # This script is a joke
 
