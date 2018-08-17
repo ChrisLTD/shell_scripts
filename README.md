@@ -3,8 +3,13 @@
 ## Installation
 Move scripts into ~/Scripts/
 
-## Make a script executable
+## Make a single script executable
 chmod +x example-filename.ext
+
+## Or make all scripts executable
+chmod +x ~/Scripts/*.pl
+chmod +x ~/Scripts/*.py
+chmod +x ~/Scripts/*.rb
 
 ## Running script
 ./example-filename.ext
